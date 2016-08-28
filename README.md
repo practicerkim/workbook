@@ -1,4 +1,6 @@
-# gold_room:
+# contents
+
+gold_room:
   입력값을 받는다
   입력된 값이 숫자
 	  * 50보다 크면 greedy 출력
